@@ -1,6 +1,6 @@
 # Getting & Cleaning Data
 Author: Svea
-Data: 
+Data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 # Goal of the Project
 
